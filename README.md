@@ -6,11 +6,11 @@ Sample iOS Application
 
 Prepare a simple iOS Swift app. To fetch the list of album and photos belonging to the album.
 
-API URL: https://jsonplaceholder.typicode.com/
-Architecture: MVVM
-Project-Language: Swift 5
-Local Database: Not used
-Logger- SwiftyBeaver
+* API URL: https://jsonplaceholder.typicode.com/
+* Architecture: MVVM
+* Project-Language: Swift 5
+* Local Database: Not used
+* Logger- SwiftyBeaver
 
 ### Third Party Libraries
 
